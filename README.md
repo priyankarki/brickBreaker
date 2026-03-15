@@ -1,7 +1,7 @@
 # Brick Breaker
 
 
-<img width="300" height="200" alt="Screenshot 2025-09-10 at 1 59 52 PM" src="https://github.com/user-attachments/assets/d11f054c-de4b-4876-93f6-95b8ca6fc2af" />
+<img width="300" height="200" alt="Screenshot 2025-09-10 at 1 59 52 PM" src="/BrickBreaker.gif" />
 
 Unity-based reimagining of the classic Brick Breaker / Breakout arcade game. This project was created as a learning exercise to deepen familiarity with Unity, game physics, UI systems, and general game architecture.
 
